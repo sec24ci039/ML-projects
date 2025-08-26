@@ -1,0 +1,15 @@
+education_level,python,sql,statistics,java,cloud,job_role
+Masters,1,1,1,0,0,Data Scientist
+Masters,1,1,1,1,0,Data Scientist
+Bachelors,1,1,0,0,0,Data Analyst
+Bachelors,1,1,0,0,1,Data Analyst
+Bachelors,0,1,0,1,0,Data Engineer
+Masters,1,1,0,1,0,Data Engineer
+Bachelors,1,0,0,1,0,Backend Developer
+Bachelors,1,0,0,1,1,Backend Developer
+Bachelors,1,0,0,0,1,DevOps Engineer
+Masters,1,0,0,0,1,DevOps Engineer
+Masters,1,1,1,1,1,ML Engineer
+Masters,1,1,1,1,1,ML Engineer
+Bachelors,1,0,1,0,0,Data Scientist
+Bachelors,0,1,0,0,1,Data Analyst
